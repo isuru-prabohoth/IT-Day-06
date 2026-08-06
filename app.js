@@ -70,14 +70,14 @@
 
  // DOM (Document Object Model) Manipulation -----------------------------------------------
 
- document.write("<h2>Hello, World! 02</h2>");
+ // document.write("<h2>Hello, World! 02</h2>");
 
- console.log(document.title);
+ // console.log(document.title);
 
 
 // let heading = document.getElementById("heading");
 
-// // heading.innerText = "Sharada";
+// heading.innerText = "Sharada";
 
 // // console.log(heading.);
 // let number = 0;
