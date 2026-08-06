@@ -68,11 +68,11 @@
 // console.log(customer2.items[2].name);
 // console.log(customer2.father.name);
 
-// DOM (Document Object Model) Manipulation -----------------------------------------------
+ // DOM (Document Object Model) Manipulation -----------------------------------------------
 
-// document.write("<h2>Hello, World! 02</h2>");
+ document.write("<h2>Hello, World! 02</h2>");
 
-// console.log(document.title);
+ console.log(document.title);
 
 
 // let heading = document.getElementById("heading");
